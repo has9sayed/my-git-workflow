@@ -2,7 +2,7 @@ name: pr_maintainer_checklist2
 on:
   pull_request_target:
     branches:
-      - master
+      - main
     types:
       - opened
 
